@@ -1,3 +1,3 @@
 # arch
 add arch1.sh
-test
+test 1..2..3
